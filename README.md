@@ -1,4 +1,4 @@
-# CoPilot-Agent-DGMD-Program
+
 # DGMD AI Agent (Copilot Studio)
 
 An internal Copilot agent designed to help prospective and current students find **accurate, up-to-date information** about Langara College’s **Digital Media & Design (DGMD)** program.  
