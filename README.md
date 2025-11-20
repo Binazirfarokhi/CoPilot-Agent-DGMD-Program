@@ -129,8 +129,3 @@ If a question is outside the DGMD scope, the agent will point the user to the co
 
 ---
 
-## Author
-
-**Binazir Farokhi**  
-Instructional Assistant – Web and Mobile App Design & Development (WMDD)  
-Langara College  
