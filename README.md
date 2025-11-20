@@ -7,6 +7,25 @@ This assistant does **not** invent answers. It only responds based on approved D
 
 ---
 
+## 📸 Demo
+
+
+### 1. Starting the DGMD AI Agent
+
+![DGMD AI Agent – Start](./App-start.gif)
+
+### 2. Answering “How can international students apply?”
+
+![DGMD AI Agent – Application Flow](./Step2.gif)
+
+### 3. Searching across DGMD knowledge sources
+
+![DGMD AI Agent – Knowledge Search](./step3.gif)
+
+---
+
+---
+
 ## 🎯 Goal
 
 - Answer common questions about the DGMD program in **one place**  
@@ -68,26 +87,7 @@ These sources are maintained by the department, so answers stay aligned with off
 4. **No knowledge = no answer**  
    - By design, the agent will not guess or invent program details
 
----
 
-## 📸 Demo
-
-> Replace the image paths below with the actual paths in your repo  
-> (for example: `./gifs/App-start.gif`, `./gifs/Step2.gif`, `./gifs/step3.gif`).
-
-### 1. Starting the DGMD AI Agent
-
-![DGMD AI Agent – Start](./App-start.gif)
-
-### 2. Answering “How can international students apply?”
-
-![DGMD AI Agent – Application Flow](./Step2.gif)
-
-### 3. Searching across DGMD knowledge sources
-
-![DGMD AI Agent – Knowledge Search](./step3.gif)
-
----
 
 ## 🧩 Tech Stack
 
